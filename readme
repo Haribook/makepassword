@@ -1,0 +1,6 @@
+# Install a package "whois"
+# Generate a password run the below command
+# mkpasswd --method=SHA-512
+
+# another method to generate password
+# grub-crypt --sha-512
